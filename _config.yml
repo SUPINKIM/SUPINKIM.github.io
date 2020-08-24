@@ -10,8 +10,8 @@ url: "https://supinkim.github.io" # the base hostname & protocol for your site "
 
 author:
   fullname: SUPINKIM
-  github: https://github.com/SUPINKIM/
-  linkedin: linkedin
+  github: "https://github.com/SUPINKIM/"
+  
   email: example@email.com
 
 
