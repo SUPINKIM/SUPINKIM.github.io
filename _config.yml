@@ -1,14 +1,16 @@
 # Site settings
-title: Pudhina
+title: SUPIN의 개발일지
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  초보 개발자이자, UXUI 디자이너로 일하고 있는 신입러입니다.
+  전공을 살리고자, 개발을 놓지 않기 위해 여러 side projects를 진행하고 있습니다.
+  조금이나마 개발 공부의 흔적을 남겨놓고자 합니다. :)
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://supinkim.github.io" # the base hostname & protocol for your site "https://supinkim.github.io"
 
 author:
-  fullname: Pudhina
-  github: github
+  fullname: SUPINKIM
+  github: https://github.com/SUPINKIM/
   linkedin: linkedin
   email: example@email.com
 
