@@ -22,8 +22,7 @@ Flow : 1. 시작하기 > 2. 나의 mbti 선택(or mbti 검사) > 3. 로딩 > 4. 
 
 ![그룹 3](https://user-images.githubusercontent.com/49034615/94918658-f50d9380-04ed-11eb-9ee5-bd13c798c32f.png){: width="50" height="50%"}{: .center}
 
-
-![iPhone X, XS, 11 Pro – 3](https://user-images.githubusercontent.com/49034615/94918485-a19b4580-04ed-11eb-86b9-5fa75f8463cb.png){: width="50" height="50%"}{: .right}
+![그룹 4](https://user-images.githubusercontent.com/49034615/94918784-3736d500-04ee-11eb-9b24-b7971c146322.png){: width="50" height="50%"}{: .right}
 
 
 
