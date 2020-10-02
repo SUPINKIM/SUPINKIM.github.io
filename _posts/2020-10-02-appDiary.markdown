@@ -24,7 +24,8 @@ Flow : 1. 시작하기 > 2. 나의 mbti 선택(or mbti 검사) > 3. 로딩 > 4. 
 
 
 
-구글 플레이스통 다운로드 : https://play.google.com/store/apps/details?id=com.donggi.mbtitest
+구글 플레이스토어 다운로드 : https://play.google.com/store/apps/details?id=com.donggi.mbtitest
+
 다음 개발일지에서는 사용한 코드에 대해 다뤄보도록 하겠다. 
 
 
