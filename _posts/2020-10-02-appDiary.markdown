@@ -20,7 +20,7 @@ date:   2020-10-02
 아친은 총 4개의 화면으로 구성된 앱이다.  
 Flow : 1. 시작하기 > 2. 나의 mbti 선택(or mbti 검사) > 3. 로딩 > 4. 결과 화면(나오 잘 맞는 mbti 설명 및 해당 mbti인 아이돌 사진 및 이름)
 
-![ㅇㅇ](https://user-images.githubusercontent.com/49034615/94918596-da3b1f00-04ed-11eb-8e9b-597dd2583639.png){: width="80%" height="80%"} ![그룹 3](https://user-images.githubusercontent.com/49034615/94918658-f50d9380-04ed-11eb-9ee5-bd13c798c32f.png){: width="80%" height="80%"} ![그룹 4](https://user-images.githubusercontent.com/49034615/94918784-3736d500-04ee-11eb-9b24-b7971c146322.png{: width="80%" height="80%"}
+![ㅇㅇ](https://user-images.githubusercontent.com/49034615/94918596-da3b1f00-04ed-11eb-8e9b-597dd2583639.png){: width="80%" height="80%"} ![그룹 3](https://user-images.githubusercontent.com/49034615/94918658-f50d9380-04ed-11eb-9ee5-bd13c798c32f.png){: width="80%" height="80%"} ![그룹 4](https://user-images.githubusercontent.com/49034615/94918784-3736d500-04ee-11eb-9b24-b7971c146322.png){: width="80%" height="80%"}
 
 
 
