@@ -24,7 +24,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     twitter: samarsault
-    github:  https://github.com/SUPINKIM/MBTI_TEST.git
+    github:  /SUPINKIM/MBTI_TEST.git
     linkedIn: in/samarsault
     #rss: rss
     #dribbble: jekyll
