@@ -2,6 +2,8 @@
 layout: post
 title:  "개발일지 1"
 date:   2020-10-02
+category : [java]
+comments : true
 ---
 
 <h3><"아친-mbti로 아이돌 친구 찾기" 개발일지 1></h3>
