@@ -23,10 +23,9 @@ comments : true
 <br>아친 프로젝트 참여 인원 : 2명 <br>
 본인 참여 part : 기획 / ui 디자인 / 모바일 개발 (굳이 여기서 프론트와 백을 구분하자면, 전적으로 프론트!)
 <br>개발 환경 : 안드로이드 스튜디오
-<br>사용 언어 : java (다음번에 모바일 개발을 또 한다면 코틀린을 배워서 해보고 싶은데 학교 다닐 때 코틀린 써 본 적이 없어서 너무 오래 걸릴까봐 <br>걱정이 앞서지만 그런 걱정 따위 🐶나 줘버려 ㅎㅎ)
-<br>
-
-지난번 개발일지에서 언급한대로 사용자 입장에서 이 앱은 총 4개의 화면으로 구성되어 있지만, <br>실제 class 파일은 11개가 있고, 8개의 xml 파일이 있다. (xml 왜 8개인지 누구 아시는 분?)
+<br>사용 언어 : java 
+<br>(다음번에 모바일 개발을 또 한다면 코틀린을 배워서 해보고 싶은데 학교 다닐 때 코틀린 써 본 적이 없어서 너무 오래 걸릴까봐 걱정이 앞서지만 그런 걱정 따위 🐶나 줘버려 ㅎㅎ)
+<br>지난번 개발일지에서 언급한대로 사용자 입장에서 이 앱은 총 4개의 화면으로 구성되어 있지만, <br>실제 class 파일은 11개가 있고, 8개의 xml 파일이 있다. (xml 왜 8개인지 누구 아시는 분?)
 <br><br>
 <h4> 첫 번째 페이지 </h4>
 첫 번째 페이지에는 별 거 없다. 그냥 앱 이름과 로고, 버튼을 노출하고 있다.<p>
@@ -43,6 +42,6 @@ BackPressCloseHandler class를 이용하여 첫 번째로 안드로이드 back �
 <script src="https://gist.github.com/SUPINKIM/2fbc61a686a6d0a54029023286056fbf.js"></script>
 
 그리고 각 activity에서 private BackPressCloseHandler bpc = new BackpressCloseHandler()와 같이 객체 생성 후, 
-<p> onBackPressed()를 오버라이드해서 bpc.onBakPressed():와 같이 사용해주면 끝!
+<br> onBackPressed()를 오버라이드해서 bpc.onBakPressed():와 같이 사용해주면 끝!
 
 <p> 다음 개발일지에서는 Recyclerview를 이용해 카드뷰를 만들고 싶어 고군분투에 대해 이야기 하도록 하겠다. ^___^
