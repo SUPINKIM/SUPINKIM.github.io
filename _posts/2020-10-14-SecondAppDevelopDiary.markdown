@@ -2,7 +2,7 @@
 layout: post
 title:  "개발일지 2"
 date:   2020-10-14
-category : [java]
+category : [Java]
 comments : true
 ---
 
