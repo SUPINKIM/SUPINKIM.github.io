@@ -31,39 +31,37 @@ i--를 해 다시 랜덤 인덱스를 뽑도록 코드를 작성했다.
 </p> 
 
 ```
-        ArrayList<MyData> list = (ArrayList<MyData>) intent.getSerializableExtra("allData");
+   ArrayList<MyData> list = (ArrayList<MyData>) intent.getSerializableExtra("allData");
 
-        if(list.size()>8){ //8개 넘으면 개수 8개만
-            Random random = new Random();
-            int a[] = new int[8];
+   if(list.size()>8){ //8개 넘으면 개수 8개만
+       Random random = new Random();
+       int a[] = new int[8];
 
-            for(int i=0; i<8; i++){
-                a[i]=random.nextInt(list.size()); //랜덤으로 숫자 하나 생성
-                for(int j=0;j<i;j++){
-                    if(a[j]==a[i]){
-                        i--;
-                    }
-                }
-            }
+       for(int i=0; i<8; i++){
+           a[i]=random.nextInt(list.size()); //랜덤으로 숫자 하나 생성
+           for(int j=0;j<i;j++){
+               if(a[j]==a[i]){
+                   i--;
+               }
+           }
+       }
 
-            for(int i=0; i<8; i++){
-                System.out.println(a[i]);
-                myDataset.add(list.get(a[i]));
-            }
-
-
-        }
-        else{  //8개보다 적으면 다 출력
-            myDataset=list;
-        }
+       for(int i=0; i<8; i++){
+           System.out.println(a[i]);
+           myDataset.add(list.get(a[i]));
+       }
+   }
+   else{  //8개보다 적으면 다 출력
+       myDataset=list;
+   }
 
 
-        mAdapter = new MyAdapter(myDataset);
-        mRecyclerView.setAdapter(mAdapter);
+   mAdapter = new MyAdapter(myDataset);
+   mRecyclerView.setAdapter(mAdapter);
 
 
-        SnapHelper snapHelper = new GravitySnapHelper(Gravity.CENTER);
-        snapHelper.attachToRecyclerView(mRecyclerView);
+   SnapHelper snapHelper = new GravitySnapHelper(Gravity.CENTER);
+   snapHelper.attachToRecyclerView(mRecyclerView);
 ```
 
 해당 코드가 핵심이고, DB가 백업되면 개수를 더 많이 출력하는 방향으로 업데이트 할 수 있을 것이다.
