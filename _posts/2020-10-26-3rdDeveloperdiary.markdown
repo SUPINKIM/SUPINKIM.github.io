@@ -2,7 +2,9 @@
 layout: post
 title:  "개발일지 3"
 date:   2020-10-26
-category : [java],[UXUI]
+category : [java]
+category : [UXUI]
+
 ---
 
 
