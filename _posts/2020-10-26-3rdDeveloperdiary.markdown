@@ -32,7 +32,7 @@ i--를 해 다시 랜덤 인덱스를 뽑도록 코드를 작성했다.
 </p> 
 
 ```
-ArrayList<MyData> list = (ArrayList<MyData>) intent.getSerializableExtra("allData");
+        ArrayList<MyData> list = (ArrayList<MyData>) intent.getSerializableExtra("allData");
 
         if(list.size()>8){ //8개 넘으면 개수 8개만
             Random random = new Random();
