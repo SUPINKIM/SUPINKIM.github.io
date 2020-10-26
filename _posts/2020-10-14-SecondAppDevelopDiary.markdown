@@ -44,4 +44,4 @@ BackPressCloseHandler class를 이용하여 첫 번째로 안드로이드 back �
 그리고 각 activity에서 private BackPressCloseHandler bpc = new BackpressCloseHandler()와 같이 객체 생성 후, 
 <br> onBackPressed()를 오버라이드해서 bpc.onBakPressed():와 같이 사용해주면 끝!</p>
 
-<br> 다음 개발일지에서는 Recyclerview를 이용해 카드뷰를 만들고 싶어 고군분투에 대해 이야기 하도록 하겠다. ^___^
+<br> 다음 개발일지에서는 Recyclerview를 이용해 카드뷰를 만들고 싶어 고군분투 했던 이야기를 하도록 하겠다. ^___^
