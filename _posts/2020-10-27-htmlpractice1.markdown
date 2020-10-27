@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "개발일지 3"
+title:  "코딩 기록 1"
 date:   2020-10-27
 category : [HTML,CSS,Javascript]
 
