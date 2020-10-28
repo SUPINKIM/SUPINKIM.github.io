@@ -2,7 +2,7 @@
 layout: post
 title:  "코딩 기록 1"
 date:   2020-10-27
-category : [HTML,CSS,Javascript]
+category : [HTML,CSS]
 
 ---
 
