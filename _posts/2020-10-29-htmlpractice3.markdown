@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "코딩 기록 3"
-date:   2020-10-289
+date:   2020-10-29
 category : [HTML,CSS]
 ---
 
