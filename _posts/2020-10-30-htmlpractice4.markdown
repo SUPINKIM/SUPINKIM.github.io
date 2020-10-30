@@ -35,4 +35,4 @@ category : [HTML,CSS]
   <li>Canvas</li>
 </ul>
 
-<img width="604" alt="스크린샷 2020-10-30 오후 4 01 14" src="https://user-images.githubusercontent.com/49034615/97670356-6169bb80-1ac9-11eb-97ee-36458bef5b6d.png">
+<img width="720" alt="스크린샷 2020-10-30 오후 4 01 14" src="https://user-images.githubusercontent.com/49034615/97670356-6169bb80-1ac9-11eb-97ee-36458bef5b6d.png">
