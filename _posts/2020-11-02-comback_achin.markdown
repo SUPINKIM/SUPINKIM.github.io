@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "개발 일지 4"
+title: "개발일지 4"
 date: 2020-11-02
 category: [JAVA]
 ---
