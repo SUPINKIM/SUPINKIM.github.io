@@ -8,7 +8,7 @@ category: [JAVA]
 <h3>다시 돌아온 아친_The end라며</h3>
 
 네. The end를 외쳤던 아친 코드 리뷰를 다시 들고 왔습니다. 최근에는 웹 3대장을 열심히 공부하고 있는데,
-공부를 하면 할수록 ES6에 자바와 비슷한 개념(class, publicFeid, privateFeild...(public, prviate과 같은 역할의 친구들,,인 것으로 오늘 배웠는데 필드 맞겠지))
+공부를 하면 할수록 ES6에 자바와 비슷한 개념(class, publicField, privateField...(public, prviate과 같은 역할의 친구들,,인 것으로 오늘 배웠는데 필드 맞겠지))
 이 많이 생겨서 점점 더 자바 코드와 닮아가고 있는 자바스크립트를 보면서 불현듯 너무 더러웠던 MyResult.java 코드를 뒤집어야겠다고
 퇴근길에 마음을 먹고 카페에 와 코드를 정리했다.
 
