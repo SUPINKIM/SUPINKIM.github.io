@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "개발일지 4"
-date: 2020-11-02
+title: "코딩 기록 7"
+date: 2020-11-03
 category: [Javascript]
 ---
 
