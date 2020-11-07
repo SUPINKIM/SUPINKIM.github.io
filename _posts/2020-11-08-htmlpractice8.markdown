@@ -24,6 +24,7 @@ category: [HTML,Javascript]
   일단 css 파일로 가변 크기를 주니까 도형 크기가 엄청 커지면서 화면 비율이 다 꺠지는 것이 아닌가....! 정말 당황해서 좀 찾아보니까 canvas는 css 파일에서 가변 너비와 높이를 주면 안된다고 함..
   만약 그렇게 가변 크기를 줄거면 무조건 resize를 해야 하는 것 같은데, 이 점을 완벽하게 이해하지는 못해서 일단 그 방법은 버리고 px 고정값을 html 파일에서 줬다.
   그렇게 하니까 일단 다시 도형들이 제 크기로 맞는 마우스 포인터에 출력되는 것을 확인할 수 있었다.
+  
   <img width="700" alt="스크린샷 2020-11-05 오후 11 56 11" src="https://user-images.githubusercontent.com/49034615/98444917-eacb5e80-2157-11eb-9b21-d3280f24e3ae.png">
   <img width="700" alt="스크린샷 2020-11-05 오후 11 59 00" src="https://user-images.githubusercontent.com/49034615/98444931-020a4c00-2158-11eb-9537-948780c0e7ff.png">
 
