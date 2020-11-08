@@ -15,4 +15,4 @@ category: [CSS,Javascript]
 
 <br> 힘내자 ㅎㅎ 
 ![Kapture 2020-11-07 at 01 10 46](https://user-images.githubusercontent.com/49034615/98467304-eb2b2e80-2217-11eb-8e66-02390af8c743.gif)
-<img width="1437" alt="스크린샷 2020-11-08 오후 10 40 37" src="https://user-images.githubusercontent.com/49034615/98467323-039b4900-2218-11eb-8d58-2f0360085d7c.png">
+<br><img width="1437" alt="스크린샷 2020-11-08 오후 10 40 37" src="https://user-images.githubusercontent.com/49034615/98467323-039b4900-2218-11eb-8d58-2f0360085d7c.png">
