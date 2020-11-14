@@ -11,7 +11,7 @@ category: [HTML,CSS,Javascript]
 
 코드 연습을 위해 어떤 것을 주제로 연습할까 고민하다가 여행 갔을 떄의 사진을 활용해보자는 생각이 들어서 런던, 파리, 홍콩 여행 갔을 때 찍은 사진을 넣어 웹 사이트 주제를 잡았다.
 <ul>
-<li>11월 9일 코딩
+<li>11월 9일 코딩<br>
 <img width="700" alt="스크린샷 2020-11-09 오후 11 13 19" src="https://user-images.githubusercontent.com/49034615/99142385-d6c3b780-2697-11eb-9432-399653a70920.png">
 <img width="700" alt="스크린샷 2020-11-09 오후 11 52 56" src="https://user-images.githubusercontent.com/49034615/99142386-d88d7b00-2697-11eb-8b56-18336a0c7bef.png">
 </li>
@@ -26,7 +26,7 @@ category: [HTML,CSS,Javascript]
   transform: translate(-50%, 0);
 ```
 
-<li> 11월 10/11일 코딩(10일은 늦게 퇴근해서 하다보니 11일 새벽이 되어버렸다.)
+<li> 11월 10/11일 코딩(10일은 늦게 퇴근해서 하다보니 11일 새벽이 되어버렸다.)<br>
 <img width="700" alt="스크린샷 2020-11-11 오전 12 34 09" src="https://user-images.githubusercontent.com/49034615/99142905-aaf70080-269c-11eb-8505-67a3c1a80918.png">
 <img width="700" alt="스크린샷 2020-11-11 오후 11 34 19" src="https://user-images.githubusercontent.com/49034615/99142891-961a6d00-269c-11eb-845a-c4d995d74c73.png">
 </li>
