@@ -34,6 +34,8 @@ category: [HTML,CSS,Javascript]
 이미지 slider를 만들고 싶어서 w3c에 있는 예제를 찾아서 해봤는데, html, css, javascript 모두 이용했다. 그런데 생각보다 술술 잘 풀리지 않아서 html과 css로만 이용해서 하는 예제도 따라해 봤는데 
 뭐가 더 좋다 이렇게 말할 수는 없겠지만, 간단하게 그 이미지들만 한정적으로 보여준다면 굳이 javascript를 이용할 필요는 없겠지만, 많은 이미지를 보여주고 click이벤트를 사용할 거라면 javascript로
 작성하는 편이 더 좋겠다는 생각이 들었다. 그렇지만 예제처럼 예쁘게 인디케이터 부분이 디자인되지 않아서 그 점은 더 연습을 해야 될 것 같다.
-</ul>
+
 
 ![Kapture 2020-11-14 at 17 25 15](https://user-images.githubusercontent.com/49034615/99143110-666c6480-269e-11eb-955e-575563415006.gif)
+</ul>
+
