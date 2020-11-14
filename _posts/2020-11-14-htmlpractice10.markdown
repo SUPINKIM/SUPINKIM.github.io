@@ -36,8 +36,7 @@ category: [HTML,CSS,Javascript]
   작성하는 편이 더 좋겠다는 생각이 들었다. 그렇지만 예제처럼 예쁘게 인디케이터 부분이 디자인되지 않아서 그 점은 더 연습을 해야 될 것 같다.
 
   <br>
-  ![Kapture 2020-11-14 at 17 25 15] (https://user-images.githubusercontent.com/49034615/99143229-31acdd00-269f-11eb-86bc-5e5f86e75812.gif)
-
-
+  
 </ul>
 
+![Kapture 2020-11-14 at 17 25 15](https://user-images.githubusercontent.com/49034615/99143229-31acdd00-269f-11eb-86bc-5e5f86e75812.gif)
