@@ -43,7 +43,7 @@ category: [HTML,CSS,Javascript]
 
 <br>
 <h5>11월 16일</h5>
-<img width="720" alt="스크린샷 2020-11-16 오후 10 39 54" src="https://user-images.githubusercontent.com/49034615/100434610-16e75900-30e0-11eb-8532-39f0cd21ab91.png">
+
 <img width="720" alt="스크린샷 2020-11-16 오후 10 40 14" src="https://user-images.githubusercontent.com/49034615/100434666-2e264680-30e0-11eb-83e2-80e62785720b.png">
 
 <br>
