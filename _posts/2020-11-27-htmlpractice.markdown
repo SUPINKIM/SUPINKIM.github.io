@@ -51,7 +51,7 @@ category: [HTML,CSS,Javascript]
 <img width="720" alt="스크린샷 2020-11-18 오전 5 48 37" src="https://user-images.githubusercontent.com/49034615/100434870-7fced100-30e0-11eb-9c39-437ad58ce1db.png">
 
 <br>
-<h5>11월 20일</h5>
+<h5>11월 20일_(19일 밤)</h5>
 <img width="720" alt="스크린샷 2020-11-20 오전 12 24 31" src="https://user-images.githubusercontent.com/49034615/100434942-98d78200-30e0-11eb-9885-4d90b9097da3.png">
 
 <br> 
