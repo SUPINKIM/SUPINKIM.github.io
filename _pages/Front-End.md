@@ -1,10 +1,8 @@
 ---
-permalink: /Front-End/
 title: "Front-End"
-excerpt: "Front-End.md"
-last_modified_at: 2020-12-07
-toc: true
-tags: [Front-End]
+layout: Front-end
+permalink: /Front-End/
+author_profile: true
 ---
 
 HTML/CSS/Javascript 공부 기록 모음입니다.
