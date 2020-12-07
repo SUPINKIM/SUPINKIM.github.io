@@ -65,3 +65,10 @@ remote_theme : plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+Java:
+  type: liquid
+  path: /Java/
+Front-End:
+  type: liquid
+  path: /Front-End/
