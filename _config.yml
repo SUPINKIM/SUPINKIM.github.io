@@ -63,3 +63,9 @@ plainwhite:
       url: "/Java"
     - title: Front-End
       url: "/Front-End"
+      
+plainwhite:
+  condensed_mobile:
+    - home
+    - post
+    - page
