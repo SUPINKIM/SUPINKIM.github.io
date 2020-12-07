@@ -56,3 +56,10 @@ remote_theme : plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+plainwhite:
+  navigation:
+    - title: Java
+      url: "/Java"
+    - title: Front-End
+      url: "/Front-End"
