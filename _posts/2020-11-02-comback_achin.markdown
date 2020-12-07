@@ -2,7 +2,7 @@
 layout: post
 title: "개발일지 4"
 date: 2020-11-02
-category: [JAVA]
+category: [Java]
 ---
 
 <h3>다시 돌아온 아친_The end라며</h3>
