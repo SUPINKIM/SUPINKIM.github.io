@@ -20,6 +20,15 @@ plainwhite:
   dark_mode: true # set to true to add dark mode toggle
   portfolio_image: "assets/IMG_3165.JPG" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
+  navigation:
+    - title: Java
+      url: "/Java"
+    - title: Front-End
+      url: "/Front-End"
+  condensed_mobile:
+    - home
+    - post
+    - page
 
   # generate social links in footer
   social_links:
@@ -56,16 +65,3 @@ remote_theme : plainwhite
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
-
-plainwhite:
-  navigation:
-    - title: Java
-      url: "/Java"
-    - title: Front-End
-      url: "/Front-End"
-      
-plainwhite:
-  condensed_mobile:
-    - home
-    - post
-    - page
