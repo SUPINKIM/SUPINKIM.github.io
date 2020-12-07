@@ -22,9 +22,13 @@ plainwhite:
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   navigation:
     - title: Java
-      url: "/Java"
-    - title: Front-End
-      url: "/Front-End"
+      url: "/category/Java"
+    - title: HTML
+      url: "/category/HTML"
+    - title: CSS
+      url: "/category/CSS"
+    - title: Javascript
+      url: "/category/Javascript"  
   condensed_mobile:
     #- home
     - post
