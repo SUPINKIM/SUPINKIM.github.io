@@ -4,7 +4,6 @@ layout: default
 {%- if site.posts.size > 0 -%}
   <ul class="posts">
     {% assign category = page.category | default: page.title %}&
-
     {% for post in site.categories[category] %}
       <li>
         {%- assign date_format = site.plainwhite.date_format | default: "%b %-d, %Y" -%}
