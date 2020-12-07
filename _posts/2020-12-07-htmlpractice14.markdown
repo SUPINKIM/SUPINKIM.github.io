@@ -3,7 +3,8 @@ layout: post
 title: "코딩 기록 14"
 date: 2020-12-07
 category: [HTML,CSS,Javascript]
-permalink:/Front-End
+permalink:/Front-End/Javascript
+taxonomy: Javascript
 ---
 
 
