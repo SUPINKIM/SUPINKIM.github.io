@@ -20,7 +20,7 @@ canvas 색을 바꾸기 위한 fillRect(x,y,width,height) 함수를 이용했기
 
 ![Kapture 2020-12-26 at 22 15 08](https://user-images.githubusercontent.com/49034615/103459736-95c15880-4d54-11eb-9ab5-dca652195062.gif)
 
-그림판 코드가 궁금하다면 아래 깃을 참고하기 바람!
+그림판 코드가 궁금하다면 깃 레파지토리를 참고하기 바람!
 [PaintJs github url](https://github.com/SUPINKIM/PaintJs.git)
 
 최근에 들은 명언 중에 '하고 싶은 일을 하려면 하기 싫은 일을 해야 한다.'라는 말이 너무 와닿았는데, 알고리즘도 그렇고 여러 클론 코딩이 그런 거 같다. 그래도 내가 선택한 길이기에 지금은 실력이 부족해도
