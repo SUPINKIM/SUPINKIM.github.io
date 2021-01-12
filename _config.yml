@@ -22,14 +22,16 @@ plainwhite:
   portfolio_image: "assets/IMG_3165.JPG" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "kr" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   navigation:
-    - title: Java
-      url: "/category/Java"
     - title: HTML
       url: "/category/HTML"
     - title: CSS
       url: "/category/CSS"
     - title: Javascript
-      url: "/category/Javascript"  
+      url: "/category/Javascript"
+    - title: Java
+      url: "/category/Java"
+    - title: React
+      url: "/category/React"
   condensed_mobile:
     #- home
     - post
