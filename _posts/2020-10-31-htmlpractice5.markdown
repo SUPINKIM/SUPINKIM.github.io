@@ -2,7 +2,7 @@
 layout: post
 title: "코딩 기록 5"
 date: 2020-10-31
-category: [HTML,Javascript]
+category: [HTML,JavaScript]
 ---
 
 <h3>코딩 기록 5_canvas로 도형 그리기</h3>
