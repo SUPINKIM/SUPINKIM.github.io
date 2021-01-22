@@ -2,7 +2,7 @@
 layout: post
 title: "코딩 기록 9"
 date: 2020-11-08
-category: [CSS,Javascript]
+category: [CSS,JavaScript]
 ---
 
 <h3>코딩 기록 9_약 3일간의 코딩 기록 몰아적기 2(11월 7,8일 공부 인증)</h3>
