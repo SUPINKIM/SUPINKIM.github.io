@@ -2,7 +2,7 @@
 layout: post
 title: "코딩 기록 8"
 date: 2020-11-08
-category: [HTML,Javascript]
+category: [HTML,JavaScript]
 ---
 
 <h3>코딩 기록 8_약 3일간의 코딩 기록 몰아적기 1</h3>
