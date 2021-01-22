@@ -2,7 +2,7 @@
 layout: post
 title: "코딩 기록 17"
 date: 2021-01-02
-category: [Javascript]
+category: [JavaScript]
 ---
 
 <h3>코딩 기록 17_2021 새 해가 밝았습니다.</h3>
