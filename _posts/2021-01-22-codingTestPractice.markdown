@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "코딩 기록 18"
+title: "코딩 기록 19"
 date: 2021-01-12
 category: [JavaScript]
 ---
