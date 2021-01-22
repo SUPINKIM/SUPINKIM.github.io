@@ -2,7 +2,7 @@
 layout: post
 title: "코딩 기록 7"
 date: 2020-11-03
-category: [Javascript]
+category: [JavaScript]
 ---
 
 <h3>코딩 기록 7</h3>
