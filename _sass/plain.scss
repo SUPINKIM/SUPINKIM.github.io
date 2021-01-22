@@ -78,6 +78,7 @@ main {
   .about {
     display: flex;
     height: 100vh;
+    padding-bottom: 5vh;
     padding: 1em 0;
     overflow: auto;
     @media screen and (max-width: $mobileW) {
