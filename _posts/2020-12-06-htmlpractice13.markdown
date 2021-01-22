@@ -2,7 +2,7 @@
 layout: post
 title: "코딩 기록 13"
 date: 2020-12-06
-category: [HTML,CSS,Javascript]
+category: [HTML,CSS,JavaScript]
 ---
 
 <h3>코딩 기록 13_공부 인증 2탄</h3>
