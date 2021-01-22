@@ -2,7 +2,7 @@
 layout: post
 title: "코딩 기록 6"
 date: 2020-11-01
-category: [Javascript]
+category: [JavaScript]
 ---
 
 
