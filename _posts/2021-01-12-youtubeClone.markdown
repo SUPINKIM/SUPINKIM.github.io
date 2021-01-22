@@ -2,7 +2,7 @@
 layout: post
 title: "코딩 기록 18"
 date: 2021-01-12
-category: [HTML,CSS,Javascript]
+category: [HTML,CSS,JavaScript]
 ---
 
 <h5>코딩 기록 18</h5>
