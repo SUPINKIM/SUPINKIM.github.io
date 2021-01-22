@@ -2,7 +2,7 @@
 layout: post
 title: "코딩 기록 12"
 date: 2020-11-29
-category: [HTML,CSS,Javascript]
+category: [HTML,CSS,JavaScript]
 ---
 
 <h3>코딩기록 12</h3>
