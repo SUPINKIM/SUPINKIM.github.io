@@ -14,7 +14,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Supin Kim
-  tagline: Developer. Designer
+  tagline: Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -27,7 +27,7 @@ plainwhite:
     - title: CSS
       url: "/category/CSS"
     - title: JavaScript
-      url: "/category/Javascript"
+      url: "/category/JavaScript"
     - title: Java
       url: "/category/Java"
     - title: React
