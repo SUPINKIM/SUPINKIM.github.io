@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[코딩테스트 문제풀이] BOJ 2798.블랙잭"
-date: 2021-02-16
+date: 2021-02-23
 category: [JavaScript]
 ---
 
