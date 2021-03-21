@@ -10,7 +10,7 @@ category: [JavaScript]
 
 <h5>[문제]</h5>
 <br>
-<img width="550" alt="최단경로 알고리즘 문제" src="https://user-images.githubusercontent.com/49034615/111906742-7dc8bd80-8a95-11eb-8fba-557611963240.png">
+<img width="600" alt="최단경로 알고리즘 문제" src="https://user-images.githubusercontent.com/49034615/111906742-7dc8bd80-8a95-11eb-8fba-557611963240.png">
 <br>
 
 
