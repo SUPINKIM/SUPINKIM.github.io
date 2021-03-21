@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[코딩테스트 문제풀이] BOJ 1753 최단경로"
+title: "[코딩테스트 문제풀이] BOJ 1753.최단경로"
 date: 2021-03-21
 category: [JavaScript]
 ---
