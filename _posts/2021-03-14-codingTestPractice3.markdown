@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[코딩테스트 문제풀이] BOJ 보석도둑"
+title: "[코딩테스트 문제풀이] 1202.BOJ 보석도둑"
 date: 2021-03-14
 category: [JavaScript]
 ---
