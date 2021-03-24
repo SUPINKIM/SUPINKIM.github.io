@@ -32,7 +32,9 @@ category: [JavaScript]
 해당 길이에서 팰린드롬을 찾는 방법은 문자열 처음부터 찾는 문자열의 size만큼 잘라서 해당 문자열이 팰린드롬인지 확인해주는 작업을 거치면된다. (s.substring(0,size) ~ s.substring(i,i+size))
 
 예를 들어 주어진 문자열의 길이가 7이면 
+
 size(length) = 7 -> s.substring(0,7) : 한 번만 확인하면 된다. 
+
 size(length) = 6 -> s.substring(0,6), s.substring(1,7) : 두 번 확인해준다.
 
 이런 식으로 2까지 확인해주면 된다.
