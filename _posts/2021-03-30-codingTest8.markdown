@@ -28,9 +28,12 @@ category: [JavaScript]
 처음에 시도했을 때 3가지 케이스에서 통과하지 못했는데, 그 이유는
 
 ```javascript
-if(mArr.every(x => scoreArr.includes(x)) && scoreArr.join('/').includes(mArr.join('/')) && scoreArr.length >= mArr.length){
-            ans.push({play:playTime, start: time1, name: name});
-        }
+if(mArr.every(x => scoreArr.includes(x)) 
+   && scoreArr.join('/').includes(mArr.join('/')) 
+   && scoreArr.length >= mArr.length)
+   {
+      ans.push({play:playTime, start: time1, name: name});
+   }
 ```
 이렇게 코드를 적어주면 예를 들어 m = "ABC" 이고, score="ABC#DC"라면 문제의 조건과 틀리지만 내 체크코드에 의하면 m의 모든 원소들이 scoreArr = ["A","B","C#","D","C"]에 포함되고 join을 했을 때도
 includes가 true가 된다.("A/B/C"는 "A/B/C#/D/C"에 포함) 그래서 이런 예외 케이스를 잡아주지 못한다.
