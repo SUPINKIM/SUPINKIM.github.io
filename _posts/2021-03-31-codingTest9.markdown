@@ -9,7 +9,7 @@ category: [JavaScript]
 <h4> [백준] 코딩테스트 문제 풀이 : 1967.트리의 지름 <small>#Tree#DFS</small></h4>
 
 <h5>[문제]</h5>
-<img width="400" alt="트리의 지름 문제" src="https://user-images.githubusercontent.com/49034615/113095937-5e692780-922f-11eb-992d-221320370322.png">
+<img width="500" alt="트리의 지름 문제" src="https://user-images.githubusercontent.com/49034615/113095937-5e692780-922f-11eb-992d-221320370322.png">
 
 일단 문제가 이러쿵 저러쿵 써 있지만 결국 간선의 가중치가 있는 트리에서 리프 노드 - 리프 노드 또는 트리 - 리프노드 간에 값의 합 중 큰 값을 출력하는 문제이다.
 
