@@ -9,8 +9,7 @@ category: [JavaScript]
 
 <h5>[문제]</h5>
 
-![스크린샷 2021-03-30 오후 12 57 47](https://user-images.githubusercontent.com/49034615/112931692-93a24680-9157-11eb-902d-192f2d617624.png)
-
+<img width="550" alt="방금 그곡" src="https://user-images.githubusercontent.com/49034615/112931692-93a24680-9157-11eb-902d-192f2d617624.png">
 
 <h5>[접근 방법]</h5>
 일단 보자마자 든 생각은 #를 어떻게 구분해야 하지...라는 생각이 가장 먼저 들었는데, 풀고 다른 풀이를 찾아보니 String 메소드 중에 replace를 활용해 chaining으로 각 #이 있는 음표들을
