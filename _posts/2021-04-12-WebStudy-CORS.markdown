@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "[코딩테스트 문제풀이] Programmers 섬 연결하기"
-date: 2021-04-01
+title: "CORS"
+date: 2021-04-012
 category: [JavaScript,Vue]
 ---
 
