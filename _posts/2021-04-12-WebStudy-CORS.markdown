@@ -12,7 +12,7 @@ category: [JavaScript,Vue]
 그 때는 잘 이해가 가지 않았는데 여러 번 보다 보니 그 때보다는 이해가 되고, 무엇보다 이렇게 글을 남겨 공부를 하면 좀 더 이해가 잘 되지 않을까 싶어서 정리해보려고 한다.
 
 일단 Fetch API를 활용하여 데이터를 호출하면 이런 에러를 마주할 수 있을 것이다. 
-<img width="550" alt="CORS ERROR" src="https://user-images.githubusercontent.com/49034615/114339808-0d432700-9b91-11eb-854b-1b6e26caa1d3.png">
+<img width="600" alt="CORS ERROR" src="https://user-images.githubusercontent.com/49034615/114339808-0d432700-9b91-11eb-854b-1b6e26caa1d3.png">
 
 읽어보면 "너가 요청한 오리진 주소는 막혔어. CORS를 헤더에 담아서 요청해" 정도로 요약할 수 있겠다. 
 
