@@ -32,6 +32,8 @@ plainwhite:
       url: "/category/Java"
     - title: React
       url: "/category/React"
+    - title: Vue
+      url: "/category/Vue"
   condensed_mobile:
     #- home
     - post
