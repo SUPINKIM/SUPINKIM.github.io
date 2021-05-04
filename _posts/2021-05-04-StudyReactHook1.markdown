@@ -5,7 +5,7 @@ date: 2021-05-04
 category: [React]
 ---
 
-<h4>Context API with React Hook (ft.nomad coders)</h4>
+<h4>Context API with React Hook (ft.nomad coder)</h4>
 
 vue.js로 진행하려던 프로젝트가 무산되고 새롭게 React.js를 활용해 여행 블로그 사이트(+todo, diary)
 작업을 진행 중이다. 팀원 분들이 다들 열심히 해주셔서 다행히 이번 프로젝트는 끝까지 잘 마무리 될 것 같다는 좋은 예감이 든다. 
