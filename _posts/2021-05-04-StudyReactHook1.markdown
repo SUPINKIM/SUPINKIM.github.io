@@ -35,6 +35,6 @@ context api를 활용해야 할 것 같다. 미리 공부하자는 마음에서 
 <b>여기서 주의할 점은 다른 컴포넌트에서 useContext(defaultContext)를 사용할 때 defaultContext는 반드시 React.createContext()로 생성된 객체를 불러와서 사용해야 한다.
 defaultContext.Provider 또는 defaultContext.Consumer는 틀린 사용이라고 공식문서에 명시되어 있음!</b>
 
-- (공식문서 tip) "useContext(MyContext)는 클래스에서의 static contextType = MyContext 또는 <MyContext.Consumer>와 같다고 보면 됩니다." 
+- (공식문서 tip) "useContext(MyContext)는 클래스에서의 static contextType = MyContext 또는 MyContext.Consumer와 같다고 보면 됩니다." 
 
 fin.
