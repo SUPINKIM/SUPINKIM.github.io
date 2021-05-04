@@ -2,7 +2,7 @@
 layout: post
 title: "CORS"
 date: 2021-04-12
-category: [JavaScript,Vue]
+category: [JavaScript]
 ---
 
 <h4>CORS란 무엇인가 : 교차 출처 리소스 공유 - <small>사이드 프로젝트 진행 중 만난 이 친구</small></h4>
