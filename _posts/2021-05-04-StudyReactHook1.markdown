@@ -26,8 +26,11 @@ context api를 활용해야 할 것 같다. 미리 공부하자는 마음에서 
 
 
 <script src="https://gist.github.com/SUPINKIM/69546cdac7e3fc57e66c34e29e990fbe.js"></script>
+
 <script src="https://gist.github.com/SUPINKIM/d89b36c35137a9c589710ca6f3287c41.js"></script>
+
 <script src="https://gist.github.com/SUPINKIM/3e00aa11d54b460e81533b071e2ff1d0.js"></script>
+
 
 <b>여기서 주의할 점은 다른 컴포넌트에서 useContext(defaultContext)를 사용할 때 defaultContext는 반드시 React.createContext()로 생성된 객체를 불러와서 사용해야 한다.
 defaultContext.Provider 또는 defaultContext.Consumer는 틀린 사용이라고 공식문서에 명시되어 있음!</b>
