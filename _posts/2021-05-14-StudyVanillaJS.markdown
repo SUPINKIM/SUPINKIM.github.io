@@ -20,8 +20,7 @@ lazy load는 찾아보니, 주로 인스타그램과 같은 이미지 게시물�
 
 
 ##### Intersection Observer란
-> MDN에 나와 있는 설명은 다음과 같다.
-> > Intersection Observer API는 타겟 요소와 상위 요소 또는 최상위 document 의 viewport 사이의 intersection 내의 변화를 비동기적으로 관찰하는 방법입니다.
+- Intersection Observer API는 타겟 요소와 상위 요소 또는 최상위 document 의 viewport 사이의 intersection 내의 변화를 비동기적으로 관찰하는 방법입니다.(출처 [MDN](https://developer.mozilla.org/ko/docs/Web/API/Intersection_Observer_API))
 
 즉, 관찰 대상이 있고 그 관찰 대상과 비교 기준이 되는 요소는 그 관찰 대상의 상위 요소 또는 최상위 요소(option의 root 요소를 지정해 주지 않으면 기본적으로 브라우저 viewport 값이 비교 기준이 된다.)
 ```
@@ -40,7 +39,7 @@ callback 함수는 entry,observer 2가지 매개 변수를 기본적으로 가�
 
 entry.target 내의 isIntersecting(boolean) 속성을 통해 현재 두 대상이 교차하고 있는지 아닌지 확인할 수 있음.
 
-구현한 코드는 스크롤 시 ul 내 li 요소를 무한하게 생성하도록 간단하게 구현해보았음. 두 개의 코드 모두 결과 값은 동일하며 브라우저 viewport와 ul요소, li요소들 중 어떤 것을 비교 대상과 관찰 대상으로 삼았는가의 
+구현한 코드는 스크롤 시 ul 내 li 요소를 무한하게 생성하도록 간단하게 구현해보았다. 두 개의 코드 모두 결과 값은 동일하며 브라우저 viewport와 ul요소, li요소들 중 어떤 것을 비교 대상과 관찰 대상으로 삼았는가의 
 차이만 있을 뿐이다. 
 
 <script src="https://gist.github.com/SUPINKIM/7eef1cb296ffd4866c75cedfa7ab18bd.js"></script>
