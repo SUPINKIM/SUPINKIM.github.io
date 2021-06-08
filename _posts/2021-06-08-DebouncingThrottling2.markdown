@@ -10,7 +10,7 @@ category: [JavaScript]
 안녕하세요. 오늘은 디바운싱에 대해 더 알아보는 시간을 가져보려고 합니다. 지난 며칠 간, 여행 블로그 프론트 작업 중 API를 호출하는 코드를 짜면서 이번에 공부한 디바운싱을 적용해봐야겠다! 라는 생각에
 바로 Timer API(setTimeout)와 closure를 활용해 코드를 짜고 디바운싱이 되겠지 짜-잔 하고 클릭을 하니 디바운싱이 전혀 적용되지 않고 코드가 돌아가는 것을 발견했습니다.
 
-<a href="https://imgflip.com/i/5cj0ld"><img width="400" src="https://i.imgflip.com/5cj0ld.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+<a href="https://imgflip.com/i/5cj0ld"><img width="400" src="https://i.imgflip.com/5cj0ld.jpg" title="made at imgflip.com"/></a>
 
 제가 맨 처음 작성한 코드는 다음과 같습니다.
 
