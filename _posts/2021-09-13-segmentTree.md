@@ -26,7 +26,7 @@ category: [JavaScript]
 - [백준 온라인 저지 2042. 구간합](https://www.acmicpc.net/problem/2042)
 
 <details>
-<summary>2357. 최솟값과 최댓값 문제 풀이 공유</summary>
+<summary>2357. 최솟값과 최댓값 문제 풀이 공유(클릭)</summary>
 <div markdown="1">       
   <script src="https://gist.github.com/SUPINKIM/3822c98762e0a0cd48a11c6e9aa926b1.js"></script>
 </div>
