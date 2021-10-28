@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "코딩 기록 5"
-date: 2020-10-31
+title: "객체지향 자바스크립트1"
+date: 2021-10-29
 category: [JavaScript]
 ---
 
